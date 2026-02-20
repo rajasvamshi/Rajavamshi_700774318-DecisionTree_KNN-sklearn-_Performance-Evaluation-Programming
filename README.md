@@ -7,8 +7,8 @@ Each notebook includes clear explanations, visualizations, and analyses of under
 
 ---
 
-**Name:** SHASHANK REDDY DASARI  
-**ID:** 700781569  
+**Name:** Rajavamshi Samudrala
+**ID:** 700774318 
 
 ---
 # 📘 Notebooks Overview  
