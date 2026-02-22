@@ -9,7 +9,6 @@ Each notebook includes clear explanations, visualizations, and analyses of under
 
 **Name:** Rajavamshi Samudrala
 
-**ID:** 700774318 
 
 ---
 # 📘 Notebooks Overview  
